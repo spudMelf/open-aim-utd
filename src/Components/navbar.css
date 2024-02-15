@@ -1,0 +1,63 @@
+.navbar {
+    height: 8vh;
+    width: 100vw;
+    background-color: #4287f5;
+
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border: 0;
+
+    text-align: center;
+    
+}
+
+.navbar a {
+    display: inline-block;
+
+    border-color: blue;
+    border-width: 1px;
+    border-style: solid;
+    border: 0;
+    
+    float: left;
+}
+
+.navbar img {
+    height: 6.5vh;
+    display: block;
+    margin-left: 1vw;
+    
+    padding-top: .75vh;
+    
+
+}
+
+.navbar h1 {
+    
+    
+    display: inline-block;
+    color: white;
+
+    margin-top: 0;
+    margin-bottom: 0;
+
+    margin-right: auto;
+    margin-left: auto;
+    
+    border-color: green;
+    border-width: 0px;
+    border-style: solid;
+    
+    position: relative;
+    font-size: 4vh;
+    top: 1vw;
+    left: -5vw;
+    
+    
+
+
+                    
+
+    
+}

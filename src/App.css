@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Montserrat:wght@600&display=swap');
+
+.App {
+  border-color: black;
+  border-radius: 1px;
+  border-style: solid;
+  border: 0;
+
+  padding: 0;
+  margin: 0;
+  
+  position: relative;
+  left: -0.5vw;
+  top: -0.75vw;
+
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+}
