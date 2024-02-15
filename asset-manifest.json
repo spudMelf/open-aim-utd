@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/open-aim-utd/static/css/main.37cc9374.css",
-    "main.js": "/open-aim-utd/static/js/main.da552bd2.js",
+    "main.css": "/open-aim-utd/static/css/main.da4911fb.css",
+    "main.js": "/open-aim-utd/static/js/main.1c2a350a.js",
+    "static/media/neural_networks_icon.png": "/open-aim-utd/static/media/neural_networks_icon.5afae900213a05efc155.png",
+    "static/media/vapnik.jpeg": "/open-aim-utd/static/media/vapnik.e4c9e383dc25e672636e.jpeg",
+    "static/media/nlp-icon.png": "/open-aim-utd/static/media/nlp-icon.227fab715f587389dc8d.png",
+    "static/media/computer-vision-icon.webp": "/open-aim-utd/static/media/computer-vision-icon.2e5bf58f06651db89fc3.webp",
     "static/media/ais_logo_dark_no_bg.png": "/open-aim-utd/static/media/ais_logo_dark_no_bg.1c2de9bf1fd9d24288c0.png",
+    "static/media/data.png": "/open-aim-utd/static/media/data.ffdded5a9d7d40c853d8.png",
+    "static/media/home_default.jpeg": "/open-aim-utd/static/media/home_default.c379edf49b31efc0bac1.jpeg",
     "index.html": "/open-aim-utd/index.html",
-    "main.37cc9374.css.map": "/open-aim-utd/static/css/main.37cc9374.css.map",
-    "main.da552bd2.js.map": "/open-aim-utd/static/js/main.da552bd2.js.map"
+    "main.da4911fb.css.map": "/open-aim-utd/static/css/main.da4911fb.css.map",
+    "main.1c2a350a.js.map": "/open-aim-utd/static/js/main.1c2a350a.js.map"
   },
   "entrypoints": [
-    "static/css/main.37cc9374.css",
-    "static/js/main.da552bd2.js"
+    "static/css/main.da4911fb.css",
+    "static/js/main.1c2a350a.js"
   ]
 }
