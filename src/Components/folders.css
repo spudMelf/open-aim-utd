@@ -1,0 +1,49 @@
+.folders {
+    margin-left: 4.5vw;
+    padding-top: 3vh;
+    padding-bottom: 2vh
+}
+
+.folder-link-container {
+    margin: 0;
+    padding: 0;
+}
+
+.folders folder-link {
+    text-decoration:'none'; 
+    color: 'black'; 
+    display:'inline-block';
+}
+
+.folders Link {
+    text-decoration:'none'; 
+    color: 'black'; 
+    display:'inline-block';
+}
+
+.folders folder-link h1{
+    text-decoration:'none'; 
+    color: 'black'; 
+    display:'inline-block';
+}
+
+.folders .separator {
+    display: inline;
+    margin: 1vw;
+    padding: 0;
+}
+
+.folders .folder-link-container {
+    display: inline;
+}
+
+.folders .folder-link-container h1:hover {
+    color: red;
+}
+
+.folder-link h1{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+

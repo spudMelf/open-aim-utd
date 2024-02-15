@@ -18,6 +18,8 @@ import IntroMathView from './Topics/IntroMath/view';
 import CVView from './Topics/CV/view';
 import NLPView from './Topics/NLP/view';
 
+import Converting from './Topics/Working-with-data/converting';
+
 function App() {
   return (
     <div className="App">
@@ -58,6 +60,11 @@ function App() {
             exact
             path="/open-aim-utd/Topics/NLP/view"
             element={<NLPView />}
+          ></Route>
+          <Route
+            exact
+            path="/open-aim-utd/Topics/Working-with-data/converting"
+            element={<Converting />}
           ></Route>
         </Routes>
       </Router>

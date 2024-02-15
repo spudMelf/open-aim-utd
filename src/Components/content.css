@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,200&family=IBM+Plex+Sans:wght@400&family=Montserrat:wght@600&display=swap');
+
+.pageRoot {
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.content {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content p {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 2.75vh;
+    font-weight: 200;
+    margin-top: 4vh;
+}
+
+.content .video {
+    
+    width: 100%;
+}
+
+.content iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content h1 {
+    font-size: 5vh;
+}
+
+.content h2 {
+    padding-top: 2vh;
+    font-size: 3.5vh;
+}
+
+.content image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
