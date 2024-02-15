@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/open-aim-utd/static/css/main.31d6cfe0.css",
-    "main.js": "/open-aim-utd/static/js/main.3f1502b9.js",
+    "main.css": "/open-aim-utd/static/css/main.37cc9374.css",
+    "main.js": "/open-aim-utd/static/js/main.da552bd2.js",
+    "static/media/ais_logo_dark_no_bg.png": "/open-aim-utd/static/media/ais_logo_dark_no_bg.1c2de9bf1fd9d24288c0.png",
     "index.html": "/open-aim-utd/index.html",
-    "main.3f1502b9.js.map": "/open-aim-utd/static/js/main.3f1502b9.js.map"
+    "main.37cc9374.css.map": "/open-aim-utd/static/css/main.37cc9374.css.map",
+    "main.da552bd2.js.map": "/open-aim-utd/static/js/main.da552bd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.3f1502b9.js"
+    "static/css/main.37cc9374.css",
+    "static/js/main.da552bd2.js"
   ]
 }
