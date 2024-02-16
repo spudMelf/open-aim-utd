@@ -35,10 +35,10 @@ function StatView () {
             <h2>Unsupervised Learning</h2>
             <ul>
                 <li>
-                    <Link to='https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html'
+                    <Link to='https://www.youtube.com/watch?v=FgakZw6K1QQ&t=315s&ab_channel=StatQuestwithJoshStarmer'
                     style={{textDecoration:'none',color:'purple'}}
                     target="_blank">
-                        <p>Implementing a NN with pytorch</p>
+                        <p>Principal component analysis</p>
                     </Link>
                 </li>
                 
