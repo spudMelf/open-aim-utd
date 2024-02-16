@@ -21,6 +21,8 @@ import NLPView from './Topics/NLP/view';
 
 import Converting from './Topics/Working-with-data/converting';
 import Vectors from './Topics/IntroMath/vectors';
+import NNIntro from './Topics/NN/introduction'
+
 
 function App() {
   return (
@@ -72,6 +74,11 @@ function App() {
             exact
             path="/open-aim-utd/Topics/IntroMath/vectors"
             element={<Vectors />}
+          ></Route>
+          <Route
+            exact
+            path="/open-aim-utd/Topics/NN/introduction"
+            element={<NNIntro />}
           ></Route>
         </Routes>
       </Router>

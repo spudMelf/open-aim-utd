@@ -11,16 +11,28 @@ import Content from '../../Components/content';
 import Bottom from '../../Components/bottom';
 import Folders from '../../Components/folders';
 
+import { Link } from "react-router-dom";
+
 var Latex = require('react-latex');
 
 function Vectors() {
-    const vector = `\begin{bmatrix}1 \\ 5 \\ -4 \\ 0\end{bmatrix}`;
+    //const vector = `\begin{bmatrix}1 \\ 5 \\ -4 \\ 0\end{bmatrix}`;
   return (
     <div className="pageRoot">
     
       <Navbar></Navbar>
       <div className="folders">
-        <h1>Home {'>'} Introductory Mathematics Resources</h1>  
+            <span className="folder-link-container">
+                <Link className="folder-link" to='/open-aim-utd/' style={{textDecoration:'none',color:'black', display:'inline-block'}}>
+                    <h1>Home</h1>
+                </Link>
+            </span>
+            <h1 className="separator" >{'>'}</h1>
+            <span className="folder-link-container">
+                <Link className="folder-link" to='/open-aim-utd/Topics/IntroMath/view' style={{textDecoration:'none',color:'black', display:'inline-block'}}>
+                    <h1>Introductory Mathematics</h1>
+                </Link>
+            </span>
       </div>
       <div className="content">
         <h1>A Brief Introduction to Vectors</h1>
