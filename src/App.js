@@ -22,7 +22,7 @@ import NLPView from './Topics/NLP/view';
 import Converting from './Topics/Working-with-data/converting';
 import Vectors from './Topics/IntroMath/vectors';
 import NNIntro from './Topics/NN/introduction'
-
+import LinearRegression from './Topics/StatModels/lin_reg';
 
 function App() {
   return (
@@ -79,6 +79,11 @@ function App() {
             exact
             path="/open-aim-utd/Topics/NN/introduction"
             element={<NNIntro />}
+          ></Route>
+          <Route
+            exact
+            path="/open-aim-utd/Topics/StatModels/lin_reg"
+            element={<LinearRegression />}
           ></Route>
         </Routes>
       </Router>
