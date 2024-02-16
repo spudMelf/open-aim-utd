@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/open-aim-utd/static/css/main.7d6cf5de.css",
-    "main.js": "/open-aim-utd/static/js/main.e6868cd5.js",
+    "main.css": "/open-aim-utd/static/css/main.de1649c1.css",
+    "main.js": "/open-aim-utd/static/js/main.f2220b4a.js",
+    "static/media/orange.png": "/open-aim-utd/static/media/orange.b43e5a0fa8fad3024fe8.png",
     "static/media/neural_networks_icon.png": "/open-aim-utd/static/media/neural_networks_icon.5afae900213a05efc155.png",
     "static/media/vapnik.jpeg": "/open-aim-utd/static/media/vapnik.e4c9e383dc25e672636e.jpeg",
     "static/media/nlp-icon.png": "/open-aim-utd/static/media/nlp-icon.227fab715f587389dc8d.png",
+    "static/media/ball.png": "/open-aim-utd/static/media/ball.ad942d65948247221895.png",
+    "static/media/whale.png": "/open-aim-utd/static/media/whale.2276d7eed92ff4235086.png",
     "static/media/iris.png": "/open-aim-utd/static/media/iris.d6e439fcc8c6ba0129e6.png",
     "static/media/computer-vision-icon.webp": "/open-aim-utd/static/media/computer-vision-icon.2e5bf58f06651db89fc3.webp",
+    "static/media/apple.png": "/open-aim-utd/static/media/apple.946cff31b25fb2a57847.png",
     "static/media/CatTable4.png": "/open-aim-utd/static/media/CatTable4.5872450edc02cefa88e3.png",
     "static/media/CatTable3.png": "/open-aim-utd/static/media/CatTable3.33167814be54eff338a8.png",
     "static/media/ais_logo_dark_no_bg.png": "/open-aim-utd/static/media/ais_logo_dark_no_bg.1c2de9bf1fd9d24288c0.png",
     "static/media/cat_table_ex.png": "/open-aim-utd/static/media/cat_table_ex.637175b5c0425e26bd50.png",
     "static/media/CatTable2.png": "/open-aim-utd/static/media/CatTable2.8e5b5ca966d016ec522f.png",
     "static/media/data.png": "/open-aim-utd/static/media/data.ffdded5a9d7d40c853d8.png",
+    "static/media/Axes with items.png": "/open-aim-utd/static/media/Axes with items.27181f6d062a745996a5.png",
     "static/media/home_default.jpeg": "/open-aim-utd/static/media/home_default.c379edf49b31efc0bac1.jpeg",
     "index.html": "/open-aim-utd/index.html",
-    "main.7d6cf5de.css.map": "/open-aim-utd/static/css/main.7d6cf5de.css.map",
-    "main.e6868cd5.js.map": "/open-aim-utd/static/js/main.e6868cd5.js.map"
+    "main.de1649c1.css.map": "/open-aim-utd/static/css/main.de1649c1.css.map",
+    "main.f2220b4a.js.map": "/open-aim-utd/static/js/main.f2220b4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d6cf5de.css",
-    "static/js/main.e6868cd5.js"
+    "static/css/main.de1649c1.css",
+    "static/js/main.f2220b4a.js"
   ]
 }
