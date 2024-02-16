@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/open-aim-utd/static/css/main.de1649c1.css",
-    "main.js": "/open-aim-utd/static/js/main.f135a1d7.js",
+    "main.js": "/open-aim-utd/static/js/main.1e7fcb49.js",
     "static/media/orange.png": "/open-aim-utd/static/media/orange.b43e5a0fa8fad3024fe8.png",
     "static/media/neural_networks_icon.png": "/open-aim-utd/static/media/neural_networks_icon.5afae900213a05efc155.png",
     "static/media/vapnik.jpeg": "/open-aim-utd/static/media/vapnik.e4c9e383dc25e672636e.jpeg",
@@ -21,10 +21,10 @@
     "static/media/home_default.jpeg": "/open-aim-utd/static/media/home_default.c379edf49b31efc0bac1.jpeg",
     "index.html": "/open-aim-utd/index.html",
     "main.de1649c1.css.map": "/open-aim-utd/static/css/main.de1649c1.css.map",
-    "main.f135a1d7.js.map": "/open-aim-utd/static/js/main.f135a1d7.js.map"
+    "main.1e7fcb49.js.map": "/open-aim-utd/static/js/main.1e7fcb49.js.map"
   },
   "entrypoints": [
     "static/css/main.de1649c1.css",
-    "static/js/main.f135a1d7.js"
+    "static/js/main.1e7fcb49.js"
   ]
 }
