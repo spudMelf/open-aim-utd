@@ -93,7 +93,7 @@ function Vectors() {
         <p>To figure this out we would have to think about where each one of those items belongs on each of our axes.</p>
         
         <p>For something like an apple, since it’s red and tasty, 
-        it would probably belong close to the top and on the far left side of our chart: somewhere around (-3, 1).
+        it would probably belong close to the top and on the far left side of our chart: somewhere around <Latex>(-3, 1)</Latex>.
         </p>
         
         <p>
@@ -108,7 +108,17 @@ function Vectors() {
         <img src={axesWithItems} alt="axes with items" className="image"></img>
         <p>We now have a graph that accurately sums up the defined relationships between these objects.</p>
 
-        <p>Most importantly though, we now have a set of vectors, namely: [-3 1]; [-0.5, 1]; [-3, -1]; [3, 0.5] that has taken our initial set of complex real-world objects (compromised of images and our pre-existing knowledge of taste) and we have converted it into numbers that store the relationships between these objects, and that the computer can use.
+        <p>Most importantly though, we now have a set of vectors, namely: 
+        <Latex style="display:inline" displayMode={true}>{`$$
+        \\left(
+        \\begin{array}{c}
+          -3 & -0.5 & -3 & 3\\\\
+          1 & 1 & -1 & 0.5\\\\
+        \\end{array}
+        \\right)
+        $$`}</Latex>
+        
+        that has taken our initial set of complex real-world objects (compromised of images and our pre-existing knowledge of taste) and we have converted it into numbers that store the relationships between these objects, and that the computer can use.
 </p>
 
         
@@ -117,9 +127,7 @@ function Vectors() {
         <p>Take a moment to just let this sink in: we took something that was actually quite complex (a real-world orange) and we were able to tell a computer how it relates to another object, like an apple, and the information is stored in a way that the computer can work with.  This is pretty amazing!
 </p>
 
-        <p>In the future we’ll learn about how we can represent text as vectors to measure similarity between the meaning of different words, how vectors and linear algebra can be used in optimization problems, and how vectors can be used to match faces in facial recognition software.  It all starts here!</p>
-        <p>In the next article we’ll be looking at some additional vector operations and how we can measure the relationships between objects more rigorously.  
-</p>
+
       </div>
       
         

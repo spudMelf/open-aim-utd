@@ -34,7 +34,7 @@ function Home() {
                     <li className="course-icon" id="IntroMath-li">  
                             <Link to='/open-aim-utd/Topics/IntroMath/view' style={{textDecoration:'none'}}>
                                 <img src={IntroMathPic} alt="Intro to Math"></img>
-                                <p>Introductory Mathematics</p>
+                                <p>Stable Diffusion</p>
                             </Link>
                     </li>
 
@@ -48,7 +48,7 @@ function Home() {
                     <li className="course-icon" id="NN-li">  
                             <Link to='/open-aim-utd/Topics/NN/view' style={{textDecoration:'none'}}>
                                 <img src={NNPic} alt="Intro to Math"></img>
-                                <p>Neural Networks</p>
+                                <p>Deep Learning</p>
                             </Link>
                     </li>
 
